@@ -15,7 +15,7 @@ public class abc {
 		else
 			System.out.println("These numbers are equal");	
 
-		System.out.println("Hello there");
+		System.out.println("Change to v1.2");
 	}
 
 }
