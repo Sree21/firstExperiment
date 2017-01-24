@@ -14,6 +14,8 @@ public class abc {
 			System.out.println(b+" is larger");
 		else
 			System.out.println("These numbers are equal");	
+
+		System.out.println("Extra line");
 	}
 
 }
