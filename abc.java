@@ -9,9 +9,9 @@ public class abc {
 		System.out.println("Enter the second number");
 		int b=scan.nextInt();
 		if(a>b)
-			System.out.println(a+" is larger");
+			System.out.println(a+" is bigger");
 		else if(b>a)
-			System.out.println(b+" is larger");
+			System.out.println(b+" is bigger");
 		else
 			System.out.println("These numbers are equal");	
 	}
