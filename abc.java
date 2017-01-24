@@ -14,12 +14,6 @@ public class abc {
 			System.out.println(b+" is larger");
 		else
 			System.out.println("These numbers are equal");	
-
-<<<<<<< HEAD
-		System.out.println("Change in v1.2");
-=======
-		System.out.println("Change to v1.2");
->>>>>>> v1.2
 	}
 
 }
